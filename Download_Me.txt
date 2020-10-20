@@ -1,0 +1,4 @@
+Download "dlib_face_recognition_resnet_model_v1" and "shape_predictor_68_face_landmarks.dat" from link: 
+https://drive.google.com/drive/folders/1rMrchtg5SdltA5kj6MPlTOLRHnVCaKks?usp=sharing 
+
+And put the downloaded files in the same folder (i.e. the folder in which there are the 4 python files).
